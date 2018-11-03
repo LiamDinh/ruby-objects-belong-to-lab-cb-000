@@ -4,4 +4,4 @@ class Artist
 
 
 
-end 
+end
